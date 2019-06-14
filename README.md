@@ -1,8 +1,7 @@
-# ML_Jun19
 ## MCSE 6309 and EMoS 6309: MACHINE LEARNING
 #### Semester II Elective course
 
-Lecture notes and tutorials for the course at NM-AIST.
+Lecture notes and tutorials for the course at [NM-AIST](https://nm-aist.ac.tz).
 
 Acknowledgment: 
 

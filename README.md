@@ -5,6 +5,5 @@
 Lecture notes and tutorials for the course at NM-AIST.
 Acknowledgment: 
 ----
-Marc Deisenroth, A. Aldo Faisal, Cheng Soon Ong, “Mathematics for Ma-
-chine Learning”, https://mml-book.com/, To be published by Cambridge
+Marc Deisenroth, A. Aldo Faisal, Cheng Soon Ong, “Mathematics for Machine Learning”, https://mml-book.com/, To be published by Cambridge
 University Press.
